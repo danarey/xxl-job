@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T18:03:01.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="wNgB_-cYNM5BQPV85O32" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T18:14:01.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="XxTgKeb5piw45hixZdSW" version="13.8.8" type="github">
   <diagram id="SJlrEbFOf27PvCAFknVe" name="第 1 页">
     <mxGraphModel dx="2249" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,8 +230,32 @@
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-84" value="获取数据库连接" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="725" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-89" value="XxlJobTrigger.trigger" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="280" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-89" target="T8Q_vZ9VZsCo-siYU3Bt-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-89" value="XxlJobTrigger.&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt ; background-color: rgb(153 , 255 , 255)&quot;&gt;processTrigger&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="820" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-93" target="T8Q_vZ9VZsCo-siYU3Bt-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-93" value="根据任务配置，获取执行器集群地址列表" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-95" target="T8Q_vZ9VZsCo-siYU3Bt-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-95" value="根据路由策略选择一个执行器" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-97" target="T8Q_vZ9VZsCo-siYU3Bt-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-97" value="发送http请求" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-99" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
