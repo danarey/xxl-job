@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T07:19:39.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="tv3ERaqdNubbIsxUHDAw" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T07:22:10.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="BV-rOrRdF0p6ymnaY1Sq" version="13.8.8" type="github">
   <diagram id="SJlrEbFOf27PvCAFknVe" name="第 1 页">
-    <mxGraphModel dx="2025" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2880" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-17" target="T8Q_vZ9VZsCo-siYU3Bt-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-17" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;初始化线程池&lt;br&gt;&lt;/span&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;JobTriggerPoolHelper&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-17" value="&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;初始化线程池&lt;br&gt;&lt;/span&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;JobTriggerPoolHelper&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="335" y="520" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-19" target="T8Q_vZ9VZsCo-siYU3Bt-89">
@@ -65,13 +65,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-19" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;fastTriggerPool&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-19" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(153 , 255 , 255)&quot;&gt;fastTriggerPool&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="250" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.658;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-21" target="T8Q_vZ9VZsCo-siYU3Bt-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-21" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#cc00cc&quot;&gt;slowTriggerPool&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-21" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;font color=&quot;#cc00cc&quot; style=&quot;background-color: rgb(153 , 255 , 255)&quot;&gt;slowTriggerPool&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="475" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-23" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;日志分析及清理线程&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 51 , 51)&quot;&gt;JobLogReportHelper&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FF3333;" vertex="1" parent="1">
@@ -80,7 +80,7 @@
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-26" target="T8Q_vZ9VZsCo-siYU3Bt-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-26" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;font style=&quot;background-color: rgb(255 , 204 , 204)&quot; color=&quot;#3333ff&quot;&gt;调度线程启动&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;font style=&quot;background-color: rgb(255 , 204 , 204)&quot; color=&quot;#3333ff&quot;&gt;JobScheduleHelper&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-26" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;font style=&quot;background-color: rgb(255 , 51 , 51)&quot; color=&quot;#3333ff&quot;&gt;调度线程启动&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;font style=&quot;background-color: rgb(255 , 51 , 51)&quot; color=&quot;#3333ff&quot;&gt;JobScheduleHelper&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#b85450;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="760" y="330" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-32" target="T8Q_vZ9VZsCo-siYU3Bt-34">
