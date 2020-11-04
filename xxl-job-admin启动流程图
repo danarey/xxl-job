@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T07:00:17.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="Bm7W7hajQmveEg6Ynb2w" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T07:19:39.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="tv3ERaqdNubbIsxUHDAw" version="13.8.8" type="github">
   <diagram id="SJlrEbFOf27PvCAFknVe" name="第 1 页">
-    <mxGraphModel dx="2858" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2025" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-1" value="admin启动流程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="175" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="20" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-6" target="T8Q_vZ9VZsCo-siYU3Bt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-6" value="XxlJobAdminConfig.&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt ; background-color: rgb(255 , 51 , 51)&quot;&gt;afterPropertiesSet&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="165" y="120" width="140" height="60" as="geometry" />
+          <mxGeometry x="155" y="110" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-7" target="T8Q_vZ9VZsCo-siYU3Bt-9">
           <mxGeometry relative="1" as="geometry" />
@@ -259,10 +259,10 @@
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=5;jumpStyle=none;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-99" target="T8Q_vZ9VZsCo-siYU3Bt-111">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="85" y="1105" as="targetPoint" />
+            <mxPoint x="90" y="1140" as="targetPoint" />
             <Array as="points">
               <mxPoint x="195" y="1260" />
-              <mxPoint x="195" y="1105" />
+              <mxPoint x="195" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -285,19 +285,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-105" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(153 , 255 , 255)&quot;&gt;初始化handler&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(153 , 255 , 255)&quot;&gt;initJobHandlerMethodRepository&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="760" width="220" height="60" as="geometry" />
+          <mxGeometry x="-95" y="750" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-107" target="T8Q_vZ9VZsCo-siYU3Bt-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-107" value="&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(153 , 255 , 255)&quot;&gt;super.start();&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="-45" y="835" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-109" target="T8Q_vZ9VZsCo-siYU3Bt-111">
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-109" target="T8Q_vZ9VZsCo-siYU3Bt-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-109" value="初始化adminBizList" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="-45" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-111" target="T8Q_vZ9VZsCo-siYU3Bt-115">
           <mxGeometry relative="1" as="geometry" />
@@ -305,13 +305,13 @@
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=4;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-111" target="T8Q_vZ9VZsCo-siYU3Bt-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-170" y="1105" />
+              <mxPoint x="-170" y="1130" />
               <mxPoint x="-170" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-111" value="启动内置服务器，netty-http" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="1075" width="120" height="60" as="geometry" />
+          <mxGeometry x="-45" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-114" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 26px&quot;&gt;http请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1230" width="110" height="20" as="geometry" />
@@ -386,6 +386,12 @@
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-147" value="发送http请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="565" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="T8Q_vZ9VZsCo-siYU3Bt-150" target="T8Q_vZ9VZsCo-siYU3Bt-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-150" value="启动回调线程&lt;br&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(102 , 255 , 102)&quot;&gt;TriggerCallbackThread&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1000" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
