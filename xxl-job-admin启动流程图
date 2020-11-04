@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T07:22:10.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="BV-rOrRdF0p6ymnaY1Sq" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-04T07:35:30.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="gX1hQ9uksjGAV6Ju9qIU" version="13.8.8" type="github">
   <diagram id="SJlrEbFOf27PvCAFknVe" name="第 1 页">
-    <mxGraphModel dx="2880" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3222" dy="1298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,6 +392,12 @@
         </mxCell>
         <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-150" value="启动回调线程&lt;br&gt;&lt;pre style=&quot;font-family: &amp;#34;consolas&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(102 , 255 , 102)&quot;&gt;TriggerCallbackThread&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-70" y="1000" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-159" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;opacity=60;strokeWidth=5;rounded=0;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="430" width="1100" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="T8Q_vZ9VZsCo-siYU3Bt-160" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;opacity=30;strokeWidth=5;rounded=0;fillColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="430" width="980" height="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
